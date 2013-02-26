@@ -47,6 +47,7 @@ public final class R {
     public static final class layout {
         public static final int about=0x7f030000;
         public static final int main=0x7f030001;
+        public static final int scores=0x7f030002;
     }
     public static final class menu {
         public static final int main=0x7f090000;
@@ -63,14 +64,17 @@ public final class R {
         public static final int button_scores=0x7f070007;
         public static final int hello_world=0x7f070011;
         public static final int menu_settings=0x7f070001;
+        public static final int no_scores=0x7f070014;
         public static final int pref_fragments_sum=0x7f07000d;
         public static final int pref_fragments_title=0x7f07000e;
         public static final int pref_graphics_sum=0x7f07000b;
         public static final int pref_graphics_title=0x7f07000c;
         public static final int pref_music_sum=0x7f070009;
         public static final int pref_music_title=0x7f07000a;
+        public static final int scores=0x7f070013;
         public static final int title=0x7f070002;
         public static final int title_activity_preferences=0x7f07000f;
+        public static final int title_activity_scores=0x7f070012;
     }
     public static final class style {
         /** 

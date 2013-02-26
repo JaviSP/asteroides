@@ -28,11 +28,11 @@
         </activity>
         <activity
             android:name="com.bsodcorp.android.asteroides.Preferences"
-            android:label="@string/title_activity_preferences"
-            android:parentActivityName="com.bsodcorp.android.asteroides.About" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.bsodcorp.android.asteroides.About" />
+            android:label="@string/title_activity_preferences">
+        </activity>
+        <activity 
+            android:name="com.bsodcorp.android.asteroides.scores.Scores" 
+            android:label="@string/title_activity_scores">
         </activity>
     </application>
 

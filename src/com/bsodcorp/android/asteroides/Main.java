@@ -1,6 +1,7 @@
 package com.bsodcorp.android.asteroides;
 
 import com.bsodcorp.android.asteroides.scores.ArrayScoresWare;
+import com.bsodcorp.android.asteroides.scores.Scores;
 
 import android.app.Activity;
 import android.content.Intent;
