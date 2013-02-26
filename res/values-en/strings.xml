@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Asteroids</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title">Asteroids</string>
+    <string name="button_play">Play</string>
+    <string name="button_about">About&#8230;</string>
+    <string name="button_configure">Configure</string>
+    <string name="button_exit">Exit</string>
+    <string name="button_scores">Scores</string>
+    <string name="about_text">This program has been developed as an example in the Android course to demonstrate how to launch new activity from the main activity.</string>
+    <string name="pref_music_sum">Play background music</string>
+    <string name="pref_music_title">Play music</string>
+    <string name="pref_graphics_sum">Choose the type of grafics</string>
+    <string name="pref_graphics_title">Grafics</string>
+    <string name="pref_fragments_sum"># framents to divide an asteroids</string>
+    <string name="pref_fragments_title">Number of fragments</string>
+    
+</resources>

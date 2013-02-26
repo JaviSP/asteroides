@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    
+    <item android:id="@+id/menu_play" android:title="@string/button_play" android:orderInCategory="90"></item>
+    <item android:id="@+id/menu_settings" android:title="@string/button_configure" android:orderInCategory="100" android:showAsAction="never" android:icon="@android:drawable/ic_menu_preferences"/>
+    <item android:id="@+id/menu_about" android:title="@string/button_about" android:orderInCategory="110" android:showAsAction="never" android:icon="@android:drawable/ic_menu_info_details"></item>
+    <item android:id="@+id/menu_exit" android:title="@string/button_exit" android:orderInCategory="120" android:showAsAction="never"></item>
+
+</menu>
