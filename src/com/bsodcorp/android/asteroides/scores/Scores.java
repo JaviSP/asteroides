@@ -12,9 +12,12 @@ public class Scores extends ListActivity {
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.scores);
-		setListAdapter(new ArrayAdapter<String>(this,
-				android.R.layout.simple_list_item_1,
-				Main.scoresWare.scoreList(10)));
+//      Lista de strings (I)
+//		setListAdapter(new ArrayAdapter<String>(this,
+//				android.R.layout.simple_list_item_1,
+//				Main.scoresWare.scoreList(10)));
+		 setListAdapter(
+				 new ArrayAdapter<String>(this, R.layout.score_element, R.id.tittle, Main.scoresWare.scoreList(10)));
 
 	}
 }

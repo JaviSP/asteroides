@@ -26,28 +26,36 @@ public final class R {
         public static final int title_margin_lanzador=0x7f060001;
     }
     public static final class drawable {
-        public static final int ic_launcher=0x7f020000;
+        public static final int asteroid1=0x7f020000;
+        public static final int asteroid2=0x7f020001;
+        public static final int asteroid3=0x7f020002;
+        public static final int ic_launcher=0x7f020003;
+        public static final int prev=0x7f020004;
     }
     public static final class id {
         public static final int LinearLayout1=0x7f0a0001;
         public static final int about_text=0x7f0a0000;
-        public static final int action_settings=0x7f0a000d;
+        public static final int action_settings=0x7f0a0010;
         public static final int button_about=0x7f0a0005;
         public static final int button_configure=0x7f0a0004;
         public static final int button_play=0x7f0a0003;
         public static final int button_scores=0x7f0a0006;
-        public static final int menu_about=0x7f0a000b;
-        public static final int menu_exit=0x7f0a000c;
-        public static final int menu_play=0x7f0a0009;
-        public static final int menu_settings=0x7f0a000a;
+        public static final int icon=0x7f0a0009;
+        public static final int menu_about=0x7f0a000e;
+        public static final int menu_exit=0x7f0a000f;
+        public static final int menu_play=0x7f0a000c;
+        public static final int menu_settings=0x7f0a000d;
+        public static final int subtittle=0x7f0a000b;
         public static final int tableRow1=0x7f0a0007;
         public static final int tableRow2=0x7f0a0008;
         public static final int text_title=0x7f0a0002;
+        public static final int tittle=0x7f0a000a;
     }
     public static final class layout {
         public static final int about=0x7f030000;
         public static final int main=0x7f030001;
-        public static final int scores=0x7f030002;
+        public static final int score_element=0x7f030002;
+        public static final int scores=0x7f030003;
     }
     public static final class menu {
         public static final int main=0x7f090000;
@@ -72,6 +80,7 @@ public final class R {
         public static final int pref_music_sum=0x7f070009;
         public static final int pref_music_title=0x7f07000a;
         public static final int scores=0x7f070013;
+        public static final int test=0x7f070015;
         public static final int title=0x7f070002;
         public static final int title_activity_preferences=0x7f07000f;
         public static final int title_activity_scores=0x7f070012;

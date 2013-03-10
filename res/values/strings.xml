@@ -22,5 +22,6 @@
     <string name="title_activity_scores">Mejores Puntuaciones</string>
     <string name="scores">Puntuaciones</string>
     <string name="no_scores">There isn\'t scores&#8230;</string>
+    <string name="test">Texto de prueba</string>
 
 </resources>
